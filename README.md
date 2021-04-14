@@ -1,2 +1,0 @@
-# docker-practice
-docker practice
